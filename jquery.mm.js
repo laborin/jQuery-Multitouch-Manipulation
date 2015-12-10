@@ -1,3 +1,8 @@
+/*
+ * jQuery Multitouch Manipulation - jQuery plugin by Emmanuel Laborin laborin@gmail.com
+ * 
+ */
+
 ;(function ( $, window, document, undefined ) {
 
     "use strict";
